@@ -12,14 +12,6 @@ A classic text-based Hangman game implemented in Python.
 
 ## How to Play
 1. Ensure you have Python installed
- Clone this repository:
+2. Clone this repository:
    ```bash
-   https://github.com/BOYACHIRAPPAGARISAIHARIKA/Code-Alpha_-Hangman_-Game
-2.Navigate to the project directory:
- ```bash
-   cd Code-Alpha_-Hangman_-Game
-
-
-
-## Game Preview
-   
+   git clone https://github.com/YOUR-USERNAME/hangman-game.git
